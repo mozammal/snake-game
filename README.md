@@ -23,6 +23,6 @@ $ mvn test
 You can run the application by typing the following command:
 
 ```sh
-$ mvn -e compile exec:jav
+$ mvn -e compile exec:java
 ```
 
