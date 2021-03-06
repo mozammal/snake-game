@@ -1,10 +1,10 @@
 # snake game
 
-# About
+## About
 
 Sample comamnd-line board game called Snake
 
-# Running Locally
+## Running Locally
 
 first you will need to have Java 11 installed in your system. 
 
