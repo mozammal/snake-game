@@ -1,0 +1,7 @@
+#IDE metadata
+**.idea/**
+
+*/target/*
+*/target/**
+target/
+*.iml
