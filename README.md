@@ -1,4 +1,4 @@
-# snake-game
+# snake game
 
 # About
 
