@@ -3,6 +3,7 @@ package com.example.snake;
 import java.util.Scanner;
 
 // mvn -e compile exec:java
+// Add Android GUI
 
 public class Main {
   public static void main(String[] args) {
