@@ -4,7 +4,7 @@
 
 Sample comamnd-line board game called Snake
 
-## Running Locally
+## Who to Run ocally
 
 first you will need to have Java 11 installed in your system. 
 
