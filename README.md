@@ -2,7 +2,7 @@
 
 ## About
 
-Sample comamnd-line board game called Snake
+Sample command-line board game called Snake
 
 ## Who to Run ocally
 
